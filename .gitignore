@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+*.local
+Joise_Resume.pdf
+index_old.html
+assets/
+dist/
